@@ -1,0 +1,7 @@
+If I have more time and scope, I will consider below points on this task,
+
+1/ I will use a simple PHP framework (mostly CodeIgniter) to implement this task.
+2/ Will use some databases to process the data realtime.
+3/ Will have some screens to perform CRUD operations on Movies, Actors and Roles.
+4/ Will use some designs to list and show the details of the movies for a frontend user.
+5/ Also can be consider more properties of the MOvie and Actor if permitted.
